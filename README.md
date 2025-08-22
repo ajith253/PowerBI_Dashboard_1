@@ -57,3 +57,6 @@ Allow users to quickly visualize the best-performing products in terms of sales.
 7. Sales Analysis by Days and Hours:
 Utilize a heat map to visualize sales patterns by days and hours.
 Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day-hour.
+
+
+- Dashboard Interaction <a herf="https://github.com/ajith253/PowerBI_Dashboard_1/blob/main/PowerBi_Project.png">View Dashboard</a>
