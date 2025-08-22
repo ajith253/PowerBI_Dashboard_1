@@ -69,3 +69,5 @@ Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when ho
 - Interactive Visualization: Built an intuitive dashboard with slicers, KPI cards, and charts (line, bar, donut) to visualize trends, comparisons, and composition.
 - Insight Generation: Analyzed the visualizations to derive actionable insights on peak hours, top-selling products, and store performance to guide business strategy.
   
+## Dashboard
+<img width="1228" height="745" alt="PowerBi_Project" src="https://github.com/user-attachments/assets/b553be03-634a-434b-8fef-430e8586b6e8" />
