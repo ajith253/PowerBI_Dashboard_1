@@ -60,3 +60,12 @@ Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when ho
 
 
 - Dashboard Interaction: [View Dashboard](https://github.com/ajith253/PowerBI_Dashboard_1/blob/main/PowerBi_Project.png)
+
+
+## Process
+- Data Ingestion & Discovery: Connected Power BI to the raw CSV sales data to assess its structure, volume, and initial quality issues.
+- Data Transformation & Cleaning: Used Power Query to clean the data, create a Total Sales column (Qty * Unit Price), and build a date/time hierarchy for analysis.
+- Data Modeling & DAX: Established a star schema model and authored key DAX measures (Total Revenue, Avg. Transaction Value, YTD Sales) to power the dashboard analytics.
+- Interactive Visualization: Built an intuitive dashboard with slicers, KPI cards, and charts (line, bar, donut) to visualize trends, comparisons, and composition.
+- Insight Generation: Analyzed the visualizations to derive actionable insights on peak hours, top-selling products, and store performance to guide business strategy.
+  
