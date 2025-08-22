@@ -8,4 +8,5 @@
   This project demonstrates how raw transactional data can be transformed into actionable insights using Power BI, DAX, and data visualization techniques.
 
 ## Dataset Used
-- <a herf="https://github.com/ajith253/PowerBI_Dashboard_1/blob/main/Coffee%20Shop%20Sales.csv">Coffee Shop Sales data</a>
+- <a href="https://github.com/ajith253/PowerBI_Dashboard_1/blob/main/Coffee%20Shop%20Sales.csv">Coffee Shop Sales Data</a>
+
