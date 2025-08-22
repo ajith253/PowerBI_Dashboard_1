@@ -71,3 +71,13 @@ Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when ho
   
 ## Dashboard
 <img width="1228" height="745" alt="PowerBi_Project" src="https://github.com/user-attachments/assets/b553be03-634a-434b-8fef-430e8586b6e8" />
+
+## Project Insight
+- Top-Performing Store: Hell's Kitchen generates the highest total revenue.
+- Best-Selling Category: Coffee is the dominant product category by sales volume, followed by Tea and Bakery items.
+- Peak Business Hours: The busiest times are between 8:00 AM and 10:00 AM, indicating the morning rush.
+- High-Value Product: "Sustainably Grown Organic Lg" Drinking Chocolate has the highest unit price and contributes significantly to revenue despite lower volume.
+
+## Final Conclusion
+- This Power BI project successfully transformed raw transactional data into an actionable, interactive business intelligence tool. The dashboard provides coffee shop management with a clear, data-driven view of performance across locations, products, and time.
+- The insights gleaned confirm core business assumptions (coffee is king, mornings are busy) but also reveal nuanced opportunities, such as promoting premium products and optimizing afternoon offerings. The interactive nature of the report allows managers to explore these questions on the fly, moving from reactive reporting to proactive decision-making.
